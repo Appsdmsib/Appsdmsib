@@ -1,4 +1,4 @@
-echo "# Test-page for blog post. \nhttp://abdulmadzhidov.ru/blog/Github-Pages/" >> README.md
+
 git init
 git add README.md
 git commit -m "first commit"
